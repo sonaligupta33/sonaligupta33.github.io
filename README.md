@@ -2,4 +2,4 @@
 
 Online Resume :
 
-Website - www.shubhamjain.info
+Website - http://shubhamjain.info
