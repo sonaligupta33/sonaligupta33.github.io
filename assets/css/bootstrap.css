@@ -7706,7 +7706,7 @@ h2.notes img {
 
 #hello article {
     margin: 0 auto;
-    max-width: 460px
+    max-width: 560px
 }
 
 #hello article figure {
@@ -7984,7 +7984,7 @@ article header h2 {
 
 #i-can-help {
     text-align: center;
-    padding: 0 0 4em
+    padding-to: 10px;
 }
 
 @media (min-width:992px) {
@@ -8020,6 +8020,7 @@ article header h2 {
     color: #1b7f69;
     text-decoration: none;
     margin: 1.5em 0 0;
+    margin-bottom: 20px;
     border-radius: 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
