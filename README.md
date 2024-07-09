@@ -1,5 +1,5 @@
-# sjb7.github.io
+# sonaligupta33.github.io
 
 Online Resume :
 
-Website - http://shubhamjain.info
+Website - https://sonaligupta33.github.io/
