@@ -7254,6 +7254,24 @@ td.visible-print {
     width: 100%
 }
 
+.round-placeholder {
+    width: 200px; /* Adjust width and height as needed */
+    height: 200px;
+    border-radius: 50%; /* Make it round */
+    border: 2px solid #ffffff; /* White thin border */
+    overflow: hidden; /* Ensure content within the border is hidden */
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.rounded-image {
+    width: 100%; /* Ensure image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Match parent container for rounded effect */
+}
+
+
 #header-logo {
     -webkit-animation: fadeIn .3s ease-in-out;
     -moz-transition: fadeIn .3s ease-in-out;
@@ -7462,7 +7480,7 @@ header.nav-root {
 }
 
 #title.work-head {
-    padding-bottom: 4em
+    padding-bottom: 0em
 }
 
 h2.im-sean figure {
